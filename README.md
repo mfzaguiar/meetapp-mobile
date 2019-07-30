@@ -11,7 +11,7 @@ Essa aplicação faz parte do desafio final do bootcamp utilizado para finaliza�
 O layout do projeto está anexado nesse repositório.
 
 ## Tela Login
-![Android Emulator - Nexus_5X_API_29_5554 30_07_2019 17_53_03](https://user-images.githubusercontent.com/31289353/62165070-fc3a7f80-b2f3-11e9-9d61-c6879c13390a.png)
+<img src="https://user-images.githubusercontent.com/31289353/62165070-fc3a7f80-b2f3-11e9-9d61-c6879c13390a.png" width="300" height="500" />
 
 
 ### Autenticação
